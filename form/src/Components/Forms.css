@@ -1,0 +1,25 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    height: 40px;
+    width: 300px;
+    margin: 20px;
+}
+button{
+    position: relative;
+    left: 80px;
+    top: 50px;
+    height: 50px;
+    width: 200px;
+}
+.regMsg{
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
